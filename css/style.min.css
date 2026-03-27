@@ -1747,7 +1747,11 @@ section[data-section=menu] {
 
 .probootstrap-heading .primary-heading {
     font-family: "Pinyon Script", serif;
+<<<<<<< HEAD
     color: #FFA33E;
+=======
+    color: #1b467a;
+>>>>>>> refs/remotes/origin/master
     margin: 0;
     padding: 0;
     font-size: 80px
@@ -1761,7 +1765,11 @@ section[data-section=menu] {
 
 .probootstrap-heading .secondary-heading {
     text-transform: uppercase;
+<<<<<<< HEAD
     color: #fff;
+=======
+    color: #d703fc;
+>>>>>>> refs/remotes/origin/master
     margin: 0;
     padding: 0;
     letter-spacing: .05em;
@@ -1779,7 +1787,11 @@ section[data-section=menu] {
 }
 
 .probootstrap-heading.dark .secondary-heading {
+<<<<<<< HEAD
     color: #000
+=======
+    color: #d703fc
+>>>>>>> refs/remotes/origin/master
 }
 
 .probootstrap-heading .seperator {
